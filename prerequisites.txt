@@ -1,0 +1,7 @@
+##standard python libraries
+
+Python 3.11
+NumPy version: 2.3.4
+SciPy version: 1.16.2
+Matplotlib version: 3.11.2
+
