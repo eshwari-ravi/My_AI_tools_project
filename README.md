@@ -15,5 +15,4 @@ xi to refer to the ith sample image which is a d-dimensional feature vector
 
 ##Basics good to know
 
-1. Background on mathematical concepts of linear algebra, vector calculus, gradient descent
-2. 
+1. Background on mathematical concepts of linear algebra, vector calculus, matrix multipications (dot product), gradient descent
